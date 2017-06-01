@@ -16,6 +16,4 @@ public class SaranGIT {
 
 //nth comment
 
-//10th commit
-
 //6th comment from saran
