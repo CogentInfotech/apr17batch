@@ -6,21 +6,5 @@ public class SaranGIT {
 		System.out.println("welcome to git");
 	}
 }
-//This is my second comment
 
-//What's my name?
-
-//seshu new modification
-
-//This is my fourth comment
-
-//nth comment
-
-//mmmmmmmmmth comment
-
-//10th commit
-
-//11th
-
-//7th comment from saran
 
